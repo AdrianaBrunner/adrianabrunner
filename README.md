@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adrianabrunner
-- 👀 I’m interested in learning new stuff, reading good books and of course coding a lot!!!
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Git e Github.
+- - 🌱 I’m currently learning HTML, CSS, JavaScript, Git e Github.
 - 📫 How to reach me on Linkedin: https://www.linkedin.com/in/adriana-dias-brunner-a2312215b/
 
 <!---
