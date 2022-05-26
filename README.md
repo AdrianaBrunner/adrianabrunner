@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @adrianabrunner
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Git e Github.
+- 👋 Hi, I’m Adriana Brunner
+- 🌱 I’m learning HTML, CSS e JavaScript.
 - 📫 How to reach me on Linkedin: https://www.linkedin.com/in/adriana-dias-brunner/
 
 <!---
