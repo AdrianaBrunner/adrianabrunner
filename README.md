@@ -1,5 +1,5 @@
-- 👋 Olá, eu sou Adriana
-- 🌱 Estudande de Análise e Desenvolvimento de Sistemas + Desenvolvimento Front-end (HTML, CSS, JavaScript, NodeJs, Angular, TypeScript, ReactJS).
+- 👋 Hi there, I'm Adriana
+- 🌱 System Analysis and Development Student + Front-end Development (HTML, CSS, JavaScript, NodeJs, Angular, TypeScript, ReactJS).
 
 <!---
 adrianabrunner/adrianabrunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
