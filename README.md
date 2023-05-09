@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Adriana
-- 🌱 System Analysis and Development Student + Front-end Development (HTML, CSS, JavaScript, NodeJs, Angular, TypeScript, ReactJS).
+- 🌱 System Analysis and Development Student Degree in progress + Front-end Development Course (HTML, CSS, JavaScript, NodeJs, Angular, TypeScript, ReactJS).
 
 <!---
 adrianabrunner/adrianabrunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
