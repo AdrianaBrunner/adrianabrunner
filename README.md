@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Adriana!
 - 👩‍💻 System Analysis and Development Degree in progress + Front-end Development Course (HTML, CSS, JavaScript, NodeJs, Angular, TypeScript, ReactJS).
-
+- 👜 Currently working as fullstack developer at Spincare Software
 <!---
 adrianabrunner/adrianabrunner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
