@@ -8,7 +8,9 @@ You can click the Preview link to take a look at your changes.
 
 <div><br>
   <figure><img align="center" alt="Adri-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></figure>
-  <figure><img align="center" alt="Adri-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></figure>
+  <figure><img align="center" alt="Adri-PostGres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></figure>
+  <figure><img align="center" alt="Adri-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"></figure>
+  <figure><img align="center" alt="Adri-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></figure>
   <figure><img align="center" alt="Adri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></figure>
   <figure><img align="center" alt="Adri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></figure>
   <figure><img align="center" alt="Adri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></figure>
